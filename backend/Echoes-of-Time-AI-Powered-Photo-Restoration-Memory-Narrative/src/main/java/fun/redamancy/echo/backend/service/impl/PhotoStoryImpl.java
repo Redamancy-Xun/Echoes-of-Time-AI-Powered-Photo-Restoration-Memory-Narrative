@@ -44,7 +44,7 @@ public class PhotoStoryImpl implements PhotoStoryService {
     private PhotoStoryImageMapper photoStoryImageMapper;
 
     private static final String API_URL = "https://api.replicate.com/v1/predictions";
-    private static final String API_TOKEN = "r8_bB5Z4MUsv86amyoD8wWLRwJxoJdBwXL3G4Qjt";
+    private static final String API_TOKEN = "r8_06IJwKm5QlsqZOCLMUO6dbvldOIR3pY3qd28M";
     private static final String DOWNLOAD_DIR = "/var/www/html/echo/image/";
 
     public static String callGFPGANAPI(String imageUrl) throws IOException {
