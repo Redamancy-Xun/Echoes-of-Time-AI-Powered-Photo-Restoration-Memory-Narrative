@@ -1,0 +1,11 @@
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('0b7c5a01', 'woaini88', 'luckyman', '2772998860@qq.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('74f02328', 'yyyyyyyy', 'yyyyyyy', '1231231y23@qq.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('772f5de2', '11111111', '11111', '111111@111');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('78993c3e', '123123123', '123123123', '123123123@qq.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('79c88665', '123123123', 'Redamancy', '10235101427@stu.ecnu.edu.cn');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('7b6500e6', '111111', '111111', '3247493281@qq.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('81a09bc7', '123123123', 'Redamancy', '123321123321@123.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('97b21b22', '12333333', '123123123', '123123123222@qq.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('9869d8a1', 'wasd147258', 'AAA', '19121226881@163.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('a2658bcf', '12345678', 'STYFDKM', '1790665801@qq.com');
+INSERT INTO `user` (`id`, `password`, `username`, `email`) VALUES ('cdb60f09', '11111111', 'Test', '1111111111');
